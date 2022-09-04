@@ -15,7 +15,7 @@ const DUMMY_MEALS = [
   },
   {
     id: 'm3',
-    name: 'Barbecue Burger',
+    name: 'Cheese Burger',
     description: 'American, raw, meaty',
     price: 12.99,
   },
