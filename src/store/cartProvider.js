@@ -3,7 +3,7 @@ import { useReducer } from 'react';
 
 const defaultCartState = {
   items: [],
-  totalAmount: 0,
+  totalAmount: +0,
 };
 
 const CartReducer = (state, action) => {
